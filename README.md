@@ -1,3 +1,4 @@
 # Messing Up This Project
 
-I made another change
+Learning about conflicts and how to resolve them
+
